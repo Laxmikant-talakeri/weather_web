@@ -90,4 +90,4 @@ Laxmikant Talakeri - [Email](mailto:llaxmikant956@gmail.com)
 Project Link: [https://github.com/Laxmikant-talakeri/weather_web](https://github.com/Laxmikant-talakeri/weather_web)
 ```
 
-This README file provides an overview of your project, including its features, how to get started, usage instructions, contribution guidelines, license information, and contact details. Feel free to customize it further to fit your specific project needs.
+This README file provides an overview of weather_app project, including its features, how to get started, usage instructions, contribution guidelines, license information, and contact details. Feel free to customize it further to fit your specific project needs.
